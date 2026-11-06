@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Angleur PLUGIN - Auto Equip Weapons and Fishing Rod
+## Notes: Equipment switching companion for Angleur. Requires Angleur.
+## Author: ardCORE
+## Version: 0.3.4
+## RequiredDeps: Angleur
+## SavedVariables: AngleurPluginDB
+
+AngleurPlugin.lua
